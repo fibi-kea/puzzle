@@ -1,0 +1,12 @@
+#container {
+  display: grid;
+  background-color: beige;
+  position: relative;
+}
+.piece {
+  outline: 0.5px solid grey;
+}
+
+.move {
+  position: absolute;
+}
